@@ -1,17 +1,15 @@
 
 public class Mamifero extends Animal {
-    private String corPelo;
-
-    @Override
-    public void locomover() {
-        System.out.println("Andar");
+    protected String corPelo;
+    public String  amamenta() {
+        return "amamenta";
 
     }
 
-    @Override
-    public void emitirSom() {
-        System.out.println("Som de mamífero");
 
+    @Override
+    public String emitirSom() {
+        return "";
     }
 
     public int getIdade() {
@@ -28,5 +26,13 @@ public class Mamifero extends Animal {
 
     public void setTamanho(float tamanho) {
         this.tamanho = tamanho;
+    }
+
+    public String getCorPelo() {
+        return corPelo;
+    }
+
+    public void setCorPelo( String corPena) {
+        this.corPelo = corPelo;
     }
 }

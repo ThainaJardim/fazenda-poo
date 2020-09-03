@@ -1,12 +1,17 @@
-public class Morcego extends Mamifero {
-    @Override
-    public void emitirSom() {
-        System.out.println("farfalha");
+public class Morcego extends Mamifero implements Caseiro{
+
+    public String locomover() {
+        return "voa baixo";
+
     }
 
     @Override
-    public void locomover() {
-        System.out.println("voando");
+    public String emitirSom(){
+        return "farfalho";
+    }
+
+    public String  amamenta() {
+        return "amamenta";
 
     }
 

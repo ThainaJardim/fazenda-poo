@@ -1,12 +1,15 @@
 
 
-public abstract class Animal {
+public abstract class Animal  {
     //atributos de animal
     protected int idade;;
     protected float tamanho;
     //métodos de animal
-    public abstract void locomover ();
-    public abstract void emitirSom();
+
+    public String emitirSom(){
+        return "";
+
+    };
    
 
     public int getIdade() {

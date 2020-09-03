@@ -1,13 +1,19 @@
-public class Pato extends Ave {
+public class Pato extends Ave implements Caseiro{
     @Override
-    public void emitirSom() {
-        System.out.println("grasni");
-
+    public String emitirSom(){
+        return "Quac, quac";
     }
 
     @Override
-    public void locomover() {
-        System.out.println("voando");
+    public String botarOvos() {
+       return "bota ovos";
+    }
+
+    public String locomover() {
+        return "voa alto";
 
     }
+
+
+
 }

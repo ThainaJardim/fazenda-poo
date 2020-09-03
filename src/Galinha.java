@@ -1,6 +1,12 @@
 public class Galinha extends Ave {
     @Override
-    public void emitirSom() {
-        System.out.println("cacareja");
+    public String emitirSom() {
+        return "Cocoricó";
     }
+
+    @Override
+    public String botarOvos() {
+       return "bota ovos";
+    }
+
 }

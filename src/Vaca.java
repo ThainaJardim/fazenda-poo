@@ -1,14 +1,15 @@
 
-public class Vaca extends Mamifero { 
+public class Vaca extends Mamifero {
     @Override
-    public void emitirSom() {
-        System.out.println("Muu");
+    public String emitirSom(){
+        return "Muu";
     }
 
-    @Override
-    public void locomover() {
-        System.out.println("pastando");
+    public String  amamenta() {
+        return "amamenta";
+
     }
+
     public int getIdade() {
         return idade;
     }

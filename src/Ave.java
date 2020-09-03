@@ -1,18 +1,14 @@
 
 public class Ave extends Animal {
-    private String CorPena;
-
-    public void botarOvos() {
-
+    protected  String corPena;
+    public String botarOvos() {
+        return "";
     }
 
     @Override
-    public void locomover() {
-        System.out.println("Voar");
-    }
-    @Override
-    public void emitirSom() {
-        System.out.println("Som de aves");
+    public String emitirSom(){
+        return "";
+
     }
 
     public int getIdade() {
@@ -29,5 +25,11 @@ public class Ave extends Animal {
 
     public void setTamanho(float tamanho) {
         this.tamanho = tamanho;
+    }
+
+    public String getCorPena() {  return corPena ; }
+
+    public void setCorPena( String corPena) {
+        this.corPena = corPena;
     }
 }
