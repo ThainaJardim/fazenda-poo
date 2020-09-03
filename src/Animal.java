@@ -1,4 +1,5 @@
 
+
 public abstract class Animal {
     //atributos de animal
     protected int idade;;
@@ -6,7 +7,7 @@ public abstract class Animal {
     //métodos de animal
     public abstract void locomover ();
     public abstract void emitirSom();
-    public abstract void reproduzir();
+   
 
     public int getIdade() {
 

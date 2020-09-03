@@ -2,6 +2,10 @@
 public class Ave extends Animal {
     private String CorPena;
 
+    public void botarOvos() {
+
+    }
+
     @Override
     public void locomover() {
         System.out.println("Voar");
@@ -10,15 +14,10 @@ public class Ave extends Animal {
     public void emitirSom() {
         System.out.println("Som de aves");
     }
-    @Override
-    public void reproduzir() {
-        System.out.println("Bota ovo");
-    }
 
     public int getIdade() {
         return idade;
     }
-
 
     public void setIdade(int idade) {
         this.idade = idade;

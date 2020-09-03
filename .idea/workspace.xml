@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="50ba56a0-2fbc-467f-b2b8-02a5a84d4255" name="Default Changelist" comment="" />
+    <list default="true" id="50ba56a0-2fbc-467f-b2b8-02a5a84d4255" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lett/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lett/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lett/Ave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lett/Ave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lett/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lett/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lett/Mamifero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lett/Mamifero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lett/Vaca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lett/Vaca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mamifero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mamifero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vaca.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gw4LwgzdxHSjw2kNUBeqcbYiWW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -51,10 +89,48 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1599012421180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.-60.1366.728@0.0.1366.728" timestamp="1599012421180" />
+    <state x="484" y="70" key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog" timestamp="1599016821256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="70" key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog/0.0.1366.728/1366.-60.1366.728@0.0.1366.728" timestamp="1599016821256" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1599099185424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-60.1366.728@0.0.1366.728" timestamp="1599017198626" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599099185424" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1599099185424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.-60.1366.728@0.0.1366.728" timestamp="1599017198626" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599099185424" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1599099185424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.-60.1366.728@0.0.1366.728" timestamp="1599017198626" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599099185424" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1599099185424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.-60.1366.728@0.0.1366.728" timestamp="1599017198626" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599099185424" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lett$Main.ic" NAME="Main Coverage Results" MODIFIED="1599082739272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

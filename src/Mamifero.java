@@ -14,12 +14,6 @@ public class Mamifero extends Animal {
 
     }
 
-    @Override
-    public void reproduzir() {
-        System.out.println("amamentam");
-
-    }
-
     public int getIdade() {
         return idade;
     }
