@@ -32,7 +32,7 @@ public class Mamifero extends Animal {
         return corPelo;
     }
 
-    public void setCorPelo( String corPena) {
+    public void setCorPelo( String corPelo) {
         this.corPelo = corPelo;
     }
 }

@@ -2,7 +2,7 @@
 
 public abstract class Animal  {
     //atributos de animal
-    protected int idade;;
+    protected int idade;
     protected float tamanho;
     //métodos de animal
 

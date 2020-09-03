@@ -49,7 +49,13 @@ public class Main {
         g.botarOvos();
 
 
-        System.out.printf("Vaca:\t Idade: %d\t tamanho: %2.2f\t Cor do pelo: %s \t Emite o som: %s \t %s", v.getIdade(), v.getTamanho(), v.getCorPelo(), v.emitirSom(), v.amamenta());
+        System.out.printf("Vaca:\t Idade: %d\t tamanho: %2.2f\t Cor do pelo: %s \t Emite o som: %s \t %s \n", v.getIdade(), v.getTamanho(), v.getCorPelo(), v.emitirSom(), v.amamenta());
+        System.out.printf("Morcego:\t Idade: %d\t tamanho: %2.2f\t Cor do pelo: %s \t Emite o som: %s \t %s \n", m.getIdade(), m.getTamanho(), m.getCorPelo(), m.emitirSom(), m.amamenta());
+        System.out.printf("Pato:\t Idade: %d\t tamanho: %2.2f\t Cor do pelo: %s \t Emite o som: %s \t %s \n", p.getIdade(), p.getTamanho(), p.getCorPena(), p.emitirSom(), p.botarOvos());
+        System.out.printf("Galinha:\t Idade: %d\t tamanho: %2.2f\t Cor do pelo: %s \t Emite o som: %s \t %s \n", g.getIdade(), g.getTamanho(), g.getCorPena(), g.emitirSom(), g.botarOvos());
+
+
+
 
     }
 

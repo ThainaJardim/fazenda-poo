@@ -1,6 +1,6 @@
 
 public class Ave extends Animal {
-    protected  String corPena;
+    protected String corPena;
     public String botarOvos() {
         return "";
     }
@@ -27,7 +27,9 @@ public class Ave extends Animal {
         this.tamanho = tamanho;
     }
 
-    public String getCorPena() {  return corPena ; }
+    public String getCorPena() {
+        return corPena ;
+    }
 
     public void setCorPena( String corPena) {
         this.corPena = corPena;
